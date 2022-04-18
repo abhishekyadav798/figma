@@ -15,47 +15,47 @@ function Footer () {
             <img src={Pages} style={{ width: '25px' }} alt="..."  />
             <span style={{ color: 'white' }}>Merk</span>
           </h6>
-          <a>Copyright &#169; 2021</a>
+          <a href="javascript:;">Copyright &#169; 2021</a>
           <br />
-          <a>Design By Merk Labs</a>
+          <a href="javascript:;">Design By Merk Labs</a>
         </Col>
         <Col sm='4' md='3'>
           <h5 id='footer-heading-style'>SERVICES</h5>
-          <a>Web Development</a>
+          <a href="javascript:;">Web Development</a>
           <br />
-          <a>App Development</a>
+          <a href="javascript:;">App Development</a>
           <br />
-          <a>UI Design</a>
+          <a href="javascript:;">UI Design</a>
           <br />
-          <a>Consultation</a>
+          <a href="javascript:;">Consultation</a>
           <br />
-          <a>Maintenance</a>
+          <a href="javascript:;">Maintenance</a>
         </Col>
         <Col sm='4' md='3'>
           {' '}
           <h5 id='footer-heading-style'>COMPANY</h5>
-          <a>About</a>
+          <a href="javascript:;">About</a>
           <br />
-          <a>Contact</a>
+          <a href="javascript:;">Contact</a>
           <br />
-          <a>Send Quote</a>
+          <a href="javascript:;">Send Quote</a>
           <br />
-          <a>Privacy Policy</a>
+          <a href="javascript:;">Privacy Policy</a>
           <br />
-          <a>Term of Service</a>
+          <a href="javascript:;">Term of Service</a>
           <br />
-          <a>Jobs</a>
+          <a href="javascript:;">Jobs</a>
         </Col>
         <Col sm='4' md='3'>
           {' '}
           <h5 id='footer-heading-style'>RESOURCES</h5>
-          <a>Support</a>
+          <a href="javascript:;">Support</a>
           <br />
-          <a>Documentation</a>
+          <a href="javascript:;">Documentation</a>
           <br />
-          <a>License</a>
+          <a href="javascript:;">License</a>
           <br />
-          <a>Sitemap</a>
+          <a href="javascript:;">Sitemap</a>
           <br />
         </Col>
         <Col></Col>
