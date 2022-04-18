@@ -1,0 +1,22 @@
+.heading-red {
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(255, 0, 162);
+}
+
+.heading-two {
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+}
+.text-style {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(133, 133, 133);
+  text-decoration: none;
+}
+.row-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 110px;
+}

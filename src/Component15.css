@@ -1,0 +1,30 @@
+.div15-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 60px;
+  color: white;
+}
+.contact-style {
+  padding: 35px;
+}
+.form-style {
+  border: none;
+  background-color: rgb(9, 54, 145);
+  padding: 10px;
+  border-radius: 8px;
+  width: 270px;
+}
+
+.button_style {
+  border: 1px solid white;
+  border-radius: 4px;
+  background-color: rgb(9, 54, 145);
+  color: white;
+  margin-left: 50px;
+}
+
+#myInput{
+  background-color: rgb(9, 54, 145);
+  border: 1px solid rgb(25, 77, 181);
+  border-radius: 2px;
+}

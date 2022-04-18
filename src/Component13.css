@@ -1,0 +1,24 @@
+.div13-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+  text-align: center;
+  color: white;
+}
+.col13-style {
+  padding: 20px;
+}
+.row13-style {
+  padding: 30px;
+  text-align: left;
+  font-size: 12px;
+}
+
+.row13-style h6 {
+  font-size: 13px;
+  font-weight: 500;
+}
+.text13-style {
+  font-weight: 400;
+  color: rgb(133, 133, 133);
+}

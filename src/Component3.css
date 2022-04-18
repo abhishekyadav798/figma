@@ -1,0 +1,38 @@
+
+.div3style{
+z-index: -1;
+}
+.background-style {
+  background-color: rgb(7, 48, 130);
+  padding: 80px;
+  padding-left: 100px;
+ 
+}
+.heading-style {
+  margin: 10px;
+  margin-top: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+}
+
+.paragraph-style {
+  margin: 10px;
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(133, 133, 133);
+  text-decoration: none;
+}
+
+.stats-style{
+  border: 1px solid white;
+  height: 220px;
+  width: 620px;
+  padding: 20px;
+  border-radius: 6px;
+  color: white;
+}
+
+.stats-style h6{
+  font-weight: 300;
+}

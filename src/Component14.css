@@ -1,0 +1,66 @@
+.div14-style {
+  background-color: rgb(7, 48, 130);
+  padding: 30px;
+  text-align: center;
+  color: white;
+  font-weight: 300;
+}
+.card14-style {
+  width: 25px;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+#card-img {
+  width: 30%;
+  height: 25%;
+  border-radius: 50%;
+  margin: 0 auto;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+#card-img2 {
+  width: 25%;
+  height: 20%;
+  border-radius: 50%;
+}
+
+.card-style1 {
+  background-color: rgb(7, 48, 130);
+  border-radius: 10px;
+  border: 2px solid rgb(18, 71, 178);
+}
+.card-text {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.card-title {
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.container-style {
+  height: 300px;
+  position: relative;
+  margin: 20px;
+}
+
+.box1-style {
+  width: 50%;
+  height: 30%;
+  position: absolute;
+  top: -27px;
+  left: 320px;
+  opacity: 0.9; /* for demo purpose */
+}
+.box2-style {
+  width: 80%;
+  z-index: 9;
+  margin: 50px 20px 0px; /*for demo purpose */
+  font-size: 10px;
+}
+.box3-style {
+  width: 20%;
+  z-index: 9;
+  margin: -270px 660px 0px; /*for demo purpose */
+  font-size: 10px;
+}

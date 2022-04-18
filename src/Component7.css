@@ -1,0 +1,22 @@
+.row7-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+}
+
+.heading-expert-style {
+  color: rgb(102, 102, 241);
+  font-size: 12px;
+}
+
+.heading7-style {
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.text7-style {
+  color: rgb(133, 133, 133);
+  font-size: 12px;
+  font-weight: 400;
+}

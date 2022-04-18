@@ -1,0 +1,25 @@
+.row5-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+}
+
+.heading {
+  font-size: 12px;
+  color: rgb(228, 151, 50);
+}
+
+.heading5-style {
+  font-size: 15px;
+  font-weight: 600;
+  color: white;
+}
+
+.text5-style {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(133, 133, 133);
+}
+.col5-style {
+  padding: 20px;
+}

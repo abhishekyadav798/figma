@@ -1,0 +1,46 @@
+.div1-style {
+  background-color: rgb(7, 48, 130);
+  padding: 30px;
+  color: white;
+  padding-left: 10px;
+}
+.button1-style {
+  border: 2px solid white;
+  border-radius: 4px;
+  background-color: rgb(3, 23, 63);
+  color: white;
+  margin-top: 60px;
+  padding: 8px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.heading1-style {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+#trapezoid {
+  border-left: 25px solid transparent;
+  border-radius: 15px;
+  border-right: 25px solid transparent;
+  border-top: 100px solid rgba(151, 238, 250, 0.3);
+  height: 0;
+  width: 700px;
+  margin-left: 50vh;
+  margin-top: 20vh;
+  position: absolute;
+  z-index: 2;
+  border: 2px soild white;
+}
+
+#trapezoid p {
+  margin-top: -80px;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+#trapezoid h5 {
+  text-align: center;
+}

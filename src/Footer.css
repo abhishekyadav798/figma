@@ -1,0 +1,16 @@
+.footer-div-style {
+  background-color: rgb(7, 48, 130);
+  color: rgb(133, 133, 133);
+  padding: 50px;
+  padding-left: 110px;
+  font-size: 12px;
+  font-weight: 300;
+}
+.footer-row-style {
+  padding: 10px;
+}
+#footer-heading-style {
+  color: white;
+  font-size: 12px;
+  font-weight: 400;
+}

@@ -1,0 +1,31 @@
+.div-project-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+  color: white;
+}
+#optionSelect {
+  margin-top: 30px;
+  margin-left: 150px;
+}
+.row-card-style {
+  padding: 20px;
+  text-align: center;
+}
+#card-text {
+  color: rgb(25, 90, 211);
+  font-size: 15px;
+  font-weight: 500;
+}
+.card-text2 {
+  font-size: 12px;
+  font-weight: 500;
+  color: rgb(133, 133, 133);
+}
+.button12-style {
+  border: 1px solid white;
+  border-radius: 4px;
+  background-color: rgb(7, 48, 130);
+  color: white;
+  padding: 4px;
+}

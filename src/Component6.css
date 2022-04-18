@@ -1,0 +1,22 @@
+.row6-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+}
+
+.heading-audit {
+  color: rgb(50, 202, 207);
+  font-size: 10px;
+  font-weight: 400;
+}
+.heading6-style {
+  color: white;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.text6-style {
+  color: rgb(133, 133, 133);
+  font-size: 12px;
+  font-weight: 400;
+}

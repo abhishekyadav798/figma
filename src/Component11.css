@@ -1,0 +1,17 @@
+.div11-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+  color: white;
+}
+.text11-style {
+  font-size: 12px;
+  font-weight: 400;
+  color: rgb(133, 133, 133);
+}
+.button11-style {
+  background-color: rgb(7, 48, 130);
+  border: 1px solid white;
+  color: white;
+  border-radius: 4px;
+}

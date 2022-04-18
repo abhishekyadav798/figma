@@ -1,0 +1,29 @@
+.div10-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 140px;
+  padding-right: 140px;
+  color: white;
+}
+.link-style {
+  color: white;
+}
+.row10-style {
+  border: none;
+  background-color: rgb(9, 54, 145);
+  border-bottom-left-radius: 8px;
+  border-top-left-radius: 8px;
+  padding: 20px;
+}
+.img-style {
+  position: relative;
+  bottom: 50px;
+  right: 60px;
+}
+
+.text10-style {
+  color: white;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 300;
+}

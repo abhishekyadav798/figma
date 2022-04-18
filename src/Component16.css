@@ -1,0 +1,25 @@
+.div16-style {
+  background-color: rgb(7, 48, 130);
+  padding: 50px;
+  padding-left: 100px;
+  color: white;
+}
+
+.row16-style {
+  border: none;
+  background-color: rgb(9, 54, 145);
+  border-radius: 8px;
+  margin: 20px;
+  margin-left: 5vh;
+  margin-right: 30vh;
+  padding: 25px;
+}
+
+.button-style {
+  border: 1px solid white;
+  background-color: rgb(9, 54, 145);
+  color: white;
+  border-radius: 4px;
+  /* -webkit-clip-path: polygon(0% 20%, 92% 14%, 88% 88%, 0% 100%); */
+  /* clip-path: polygon(00% 0%, 100% 0%, 108% 100%, 0% 100%); */
+}

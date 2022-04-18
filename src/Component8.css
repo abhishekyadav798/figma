@@ -1,0 +1,24 @@
+.row8-style{
+    background-color: rgb(7, 48, 130);
+    padding: 50px;
+    padding-left: 100px;
+}
+.heading-smart{
+    color: rgb(245, 167, 72);
+    font-size: 12px;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.heading8-style{
+    color: white;
+    font-size: 15px;
+    font-weight: 600;
+    
+}
+
+.text8-style{
+    color: rgb(133, 133, 133);
+    font-size: 12px;
+    font-weight: 400;
+}

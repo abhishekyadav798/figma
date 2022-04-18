@@ -1,0 +1,24 @@
+.joinUs-div-style{
+    background-color: rgb(7, 48, 130);
+    padding: 50px;
+    padding-left: 100px;
+    color: white;
+}
+.text-joinUs-style{
+    font-size: 13px;
+    font-weight: 300;
+    color: rgb(133, 133, 133);
+}
+.btn-joinUs-style{
+background-color: rgb(7, 48, 130);
+border: 1px solid white;
+border-radius: 4px;
+color: white;
+
+}
+.code-div-style{
+    background-color:rgb(37, 49, 74) ;
+    padding: 10px;
+    font-size: 10px;
+    width: 480px;
+}
