@@ -16,7 +16,7 @@ function Component6() {
               height: "200px",
               borderRadius: "4px",
             }}
-            alt="...image" 
+            alt="..." 
           />
         </Col>
         <Col sm="6" md="4">

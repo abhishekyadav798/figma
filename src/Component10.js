@@ -8,7 +8,7 @@ function Component10() {
     <div className="div10-style">
       <Row className="row10-style">
         <Col className="img-style">
-          <img src={Galaxy} style={{ width: "250px", borderRadius: "4px" }} alt="...image" />
+          <img src={Galaxy} style={{ width: "250px", borderRadius: "4px" }} alt="..." />
         </Col>
         <Col>
           <a href="/" className="link-style">

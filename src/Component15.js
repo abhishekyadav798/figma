@@ -17,7 +17,7 @@ function Component15 () {
               fontSize: '12px'
               
             }}
-            alt="...image" 
+            alt="..." 
           >
             CONTACT
           </h6>
@@ -37,7 +37,7 @@ function Component15 () {
           <Row>
             <Col sm='2' md='2'>
               {' '}
-              <img src={Email_blue} style={{ width: '60px' }} alt="...image" />
+              <img src={Email_blue} style={{ width: '60px' }} alt="..." />
             </Col>
             <Col>
               <p>

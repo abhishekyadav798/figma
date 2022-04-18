@@ -37,7 +37,7 @@ function Component12() {
             <img
               src={Blueprint}
               style={{ width: "300px", borderRadius: "8px" }}
-              alt="...image" 
+              alt="..." 
             />
             <p id="card-text"> The Desktop App Landing Page </p>
             <p className="card-text2">A landing page for desktop app</p>
@@ -50,7 +50,7 @@ function Component12() {
             <img
               src={Blueprint}
               style={{ width: "300px", borderRadius: "8px" }}
-              alt="...image" 
+              alt="..." 
               
             />
             <p id="card-text"> The Desktop App Landing Page </p>
@@ -67,7 +67,7 @@ function Component12() {
             <img
               src={Blueprint}
               style={{ width: "300px", borderRadius: "8px" }}
-              alt="...image" 
+              alt="..." 
             />
             <p id="card-text"> The Desktop App Landing Page </p>
             <p className="card-text2"> A landing page for desktop app</p>
@@ -79,7 +79,7 @@ function Component12() {
             <img
               src={Blueprint}
               style={{ width: "300px", borderRadius: "8px" }}
-              alt="...image" 
+              alt="..." 
             />
             <p id="card-text"> The Desktop App Landing Page </p>
             <p className="card-text2"> A landing page for desktop app</p>

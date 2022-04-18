@@ -9,7 +9,7 @@ function Component4() {
       <Row className="row-style">
         <Col sm="6" md="8">
           {" "}
-          <img src={Magic} style={{ width: "600px", borderRadius: "4px" }} alt="...image"  />
+          <img src={Magic} style={{ width: "600px", borderRadius: "4px" }} alt="..."  />
         </Col>
         <Col sm="4" md="4">
           <h6 className="heading-red">DEFI</h6>

@@ -26,7 +26,7 @@ function Component5() {
               height: "200px",
               borderRadius: "4px",
             }}
-            alt="...image" 
+            alt="..." 
           />
         </Col>
       </Row>
