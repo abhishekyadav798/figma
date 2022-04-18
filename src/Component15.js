@@ -24,7 +24,7 @@ function Component15 () {
           <h5>We love receiving messages from you, we are waiting for it.</h5>
           <Row>
             <Col sm='2' md='2'>
-              <img src={Call} style={{ width: '60px' }} alt="...image"  />{' '}
+              <img src={Call} style={{ width: '60px' }} alt="..."  />{' '}
             </Col>
             <Col>
               <p style={{ fontSize: '14px' }}>
