@@ -34,28 +34,28 @@ function Footer () {
         <Col sm='4' md='3'>
           {' '}
           <h5 id='footer-heading-style'>COMPANY</h5>
-          <a href="javascript:;">About</a>
+          <a href="/">About</a>
           <br />
-          <a href="javascript:;">Contact</a>
+          <a href="/">Contact</a>
           <br />
-          <a href="javascript:;">Send Quote</a>
+          <a href="/">Send Quote</a>
           <br />
-          <a href="javascript:;">Privacy Policy</a>
+          <a href="/">Privacy Policy</a>
           <br />
-          <a href="javascript:;">Term of Service</a>
+          <a href="/">Term of Service</a>
           <br />
-          <a href="javascript:;">Jobs</a>
+          <a href="/">Jobs</a>
         </Col>
         <Col sm='4' md='3'>
           {' '}
           <h5 id='footer-heading-style'>RESOURCES</h5>
-          <a href="javascript:;">Support</a>
+          <a href="/">Support</a>
           <br />
-          <a href="javascript:;">Documentation</a>
+          <a href="/">Documentation</a>
           <br />
-          <a href="javascript:;">License</a>
+          <a href="/">License</a>
           <br />
-          <a href="javascript:;">Sitemap</a>
+          <a href="/">Sitemap</a>
           <br />
         </Col>
         <Col></Col>
