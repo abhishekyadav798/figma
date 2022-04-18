@@ -15,9 +15,8 @@ function Footer () {
             <img src={Pages} style={{ width: '25px' }} alt="..."  />
             <span style={{ color: 'white' }}>Merk</span>
           </h6>
-          <a href="javascript:;">Copyright &#169; 2021</a>
-          <br />
-          <a href="javascript:;">Design By Merk Labs</a>
+          <p>Copyright &#169; 2021</p>
+          <p >Design By Merk Labs</p>
         </Col>
         <Col sm='4' md='3'>
           <h5 id='footer-heading-style'>SERVICES</h5>
