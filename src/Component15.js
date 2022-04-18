@@ -15,34 +15,36 @@ function Component15 () {
               color: 'rgb(59, 255, 232)',
               fontWeight: 300,
               fontSize: '12px'
+              
             }}
+            alt="...image" 
           >
             CONTACT
           </h6>
           <h5>We love receiving messages from you, we are waiting for it.</h5>
           <Row>
             <Col sm='2' md='2'>
-              <img src={Call} style={{ width: '60px' }} />{' '}
+              <img src={Call} style={{ width: '60px' }} alt="...image"  />{' '}
             </Col>
             <Col>
-              <a style={{ fontSize: '14px' }}>
+              <p style={{ fontSize: '14px' }}>
                 Phone <br />
                 +91 99234456
-              </a>
+              </p>
             </Col>
           </Row>
           <br />
           <Row>
             <Col sm='2' md='2'>
               {' '}
-              <img src={Email_blue} style={{ width: '60px' }} />
+              <img src={Email_blue} style={{ width: '60px' }} alt="...image" />
             </Col>
             <Col>
-              <a>
+              <p>
                 {' '}
                 Email <br />
                 support@MerkLabs.ltd
-              </a>
+              </p>
             </Col>
           </Row>
         </Col>

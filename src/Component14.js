@@ -33,7 +33,7 @@ function Component14 () {
               </p>
               <img src={Menphoto} class='card-img-top' alt='' id='card-img' />
               <h5 class='card-title'>JOHN SMITH</h5>
-              <a>Founder of Awesomeux Technology</a>
+              <p>Founder of Awesomeux Technology</p>
             </div>
           </div>
         </div>
@@ -51,7 +51,7 @@ function Component14 () {
               </p>
               <img src={Menphoto} class='card-img-top' alt='' id='card-img2' />
               <h5 class='card-title'>JOHN SMITH</h5>
-              <a>Founder of Awesomeux Technology</a>
+              <p>Founder of Awesomeux Technology</p>
             </div>
           </div>
         </div>
@@ -69,7 +69,7 @@ function Component14 () {
               </p>
               <img src={Menphoto} class='card-img-top' alt='' id='card-img2' />
               <h5 class='card-title'>JOHN SMITH</h5>
-              <a>Founder of Awesomeux Technology</a>
+              <p>Founder of Awesomeux Technology</p>
             </div>
           </div>
         </div>

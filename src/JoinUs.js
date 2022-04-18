@@ -26,7 +26,7 @@ function JoinUs() {
             </Col>
             <Col>
             <div className='code-div-style'>
-                <a>response = stub.<span style={{color:"green"}}>PostModelOutputs</span>(<br/>
+                <p>response = stub.<span style={{color:"green"}}>PostModelOutputs</span>(<br/>
                   service_pb2.PostModelOutputsRequest(<br/>
                   model_id="THE_MODEL_ID"<br/>
                   inputs=[<br/>
@@ -45,7 +45,7 @@ function JoinUs() {
                 <br/>
                 <span style={{color:"green"}}>for concept in response.outputs[0].data.concepts:</span> <br/>
                   print(concept.name + "" str(concept.value))
-                </a>
+                </p>
             </div>
             </Col>
         </Row>

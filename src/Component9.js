@@ -28,6 +28,7 @@ function Component9() {
               height: "190px",
               borderRadius: "4px",
             }}
+            alt="...image" 
           />
         </Col>
       </Row>

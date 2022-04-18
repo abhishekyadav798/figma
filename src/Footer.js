@@ -12,7 +12,7 @@ function Footer () {
         <Col sm='4' md='3'>
           <h6>
             {' '}
-            <img src={Pages} style={{ width: '25px' }} />
+            <img src={Pages} style={{ width: '25px' }} alt="...image"  />
             <span style={{ color: 'white' }}>Merk</span>
           </h6>
           <a>Copyright &#169; 2021</a>

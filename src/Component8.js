@@ -14,6 +14,7 @@ function Component8() {
               height: "180px",
               borderRadius: "4px",
             }}
+            alt="...image" 
           /></Col>
             <Col sm='6' md='4'>
             <h4 className='heading-smart'>SMART CONTRACT</h4>

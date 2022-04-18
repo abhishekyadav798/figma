@@ -25,7 +25,7 @@ function Component11() {
         <Col sm="6" md="8">
           <img
             src={Theteam}
-            style={{ width: "660px", height: "230px", borderRadius: "4px" }}
+            style={{ width: "660px", height: "230px", borderRadius: "4px" }} alt="...image" 
           />
         </Col>
       </Row>

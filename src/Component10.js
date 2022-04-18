@@ -8,10 +8,10 @@ function Component10() {
     <div className="div10-style">
       <Row className="row10-style">
         <Col className="img-style">
-          <img src={Galaxy} style={{ width: "250px", borderRadius: "4px" }} />
+          <img src={Galaxy} style={{ width: "250px", borderRadius: "4px" }} alt="...image" />
         </Col>
         <Col>
-          <a href="#" className="link-style">
+          <a href="/" className="link-style">
             Read Article
           </a>
           <br />
