@@ -21,15 +21,15 @@ function Footer () {
         </Col>
         <Col sm='4' md='3'>
           <h5 id='footer-heading-style'>SERVICES</h5>
-          <a href="javascript:;">Web Development</a>
+          <a href="/">Web Development</a>
           <br />
-          <a href="javascript:;">App Development</a>
+          <a href="/">App Development</a>
           <br />
-          <a href="javascript:;">UI Design</a>
+          <a href="/">UI Design</a>
           <br />
-          <a href="javascript:;">Consultation</a>
+          <a href="/">Consultation</a>
           <br />
-          <a href="javascript:;">Maintenance</a>
+          <a href="/">Maintenance</a>
         </Col>
         <Col sm='4' md='3'>
           {' '}
